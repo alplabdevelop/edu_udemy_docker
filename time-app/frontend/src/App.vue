@@ -1,5 +1,5 @@
 <script setup>
-import Time from './components/Time.vue'
+  import Time from './components/Time.vue'
 </script>
 
 <template>
@@ -7,13 +7,13 @@ import Time from './components/Time.vue'
 </template>
 
 <style>
-@import './assets/base.css';
+  @import './assets/base.css';
 
-#app {
-  margin: 100px auto;
-}
+  #app {
+    margin: 100px auto;
+  }
 
-.green {
-  color: hsla(160, 100%, 37%, 1);
-}
+  .green {
+    color: hsla(160, 100%, 37%, 1);
+  }
 </style>
